@@ -9,7 +9,7 @@ version: 2
 name: Jose Francisco Sánchez Díaz
 title: Biólogo, experto en Sistemas de Información Geográfica
 email: jfsdiaz@gmail.com
-website: https://bigcarto.github.io/bigcarto/
+website: https://bigcarto.github.io/bigcarto
 
 # Dark Mode (true/false/never)
 darkmode: true
