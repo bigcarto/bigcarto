@@ -9,7 +9,7 @@ version: 2
 name: Jose Francisco Sánchez Díaz
 title: Biólogo, experto en Sistemas de Información Geográfica
 email: jfsdiaz@gmail.com
-website: www.github.com/bigcarto/bigcarto
+website: https://bigcarto.github.io/bigcarto/
 
 # Dark Mode (true/false/never)
 darkmode: true
@@ -48,9 +48,9 @@ additional_links:
 # about_title: About Me
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Hi, my name's Brett and I'm a senior network system administrator. As well as administrating systems I also have experience making software and web apps. I have worked at a number of companies gaining teamwork and leadership skills.
+  Hola, soy Jose Sánchez, un biólogo apasionado de los Sistemas de Información Geográfica, con más de veinte años de experiencia aplicando tecnologías de la información en la gestión de recursos naturales.
 
-  I am most skilled in: <mark>AWS</mark> and <mark>Eating Pizza</mark>
+  Soy experto en la suit de productos de <mark>Esri</mark> me encanta volar <mark>drones</mark> y me fascina la <mark>fotografía</mark> 
 
 content:
   - title: Projects # Title for the section
